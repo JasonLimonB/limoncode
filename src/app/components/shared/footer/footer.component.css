@@ -1,0 +1,15 @@
+.footer{
+    background: #000;
+    color: #ffffff;
+    height: 40px;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+.footer::before,
+.footer::after{
+    content: '';
+    width: 5%;
+}

@@ -1,0 +1,70 @@
+.banner{
+    margin-top: 15px;
+}
+.title-banner{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.parrafo{
+    margin-top: -100px;
+}
+.txt-color{
+    color: #2420CF;
+}
+
+.banner-img{
+    width: 400px;
+}
+
+.banner-cont-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.miBoton{
+    background: #1C31A7;
+    padding: 15px 50px;
+    color: #ffffff;
+    cursor: pointer;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.miBoton:hover{
+    color: #ffffff;
+    background:#1c31a7da;
+}
+.newDesc{
+    background:#F8F9FF;
+    text-align: center;
+    margin-top: 120px;
+}
+.newDescImg{
+    width: 400px;
+}
+
+.cartaDeServicio{
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 60px 0 rgba(0,0,0,.1);
+    display: flex;
+    align-items: center;
+    height: 300px;
+}
+
+.seccion1{
+    margin: 15px 0px;
+    width: 50%;
+}
+.seccion2{
+    margin: 15px 0px;
+    width: 50%;
+}
+.imgCard{
+    width: 200px;
+}
+.txtGary{
+    color: #B7B7B7;
+}

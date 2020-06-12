@@ -1,0 +1,21 @@
+.contContacto{
+    height: 75vh;
+    margin-top: 100px;
+}
+.formRow{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.miBoton{
+    background: #1C31A7;
+    color: #ffffff;
+    cursor: pointer;
+    border-radius: 5px;
+    text-decoration: none;
+    width: 200px;
+    height: 40px;
+    outline: none;
+    border: none;
+}
