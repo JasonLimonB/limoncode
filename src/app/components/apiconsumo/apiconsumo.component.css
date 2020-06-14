@@ -1,0 +1,28 @@
+.contCard{
+    width: 100%;
+    height: 400px;
+    margin: 20px 30px;
+    border-radius: 5px;
+    border: 1px solid #dadada;
+}
+.imgCard{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px 5px 0 0;
+}
+.superior{
+    width: 100%;
+    height: 45%;
+    border-radius: 5px 5px 0 0;
+}
+.inferior{
+    padding: 5px 20px;
+}
+.title{
+    margin-top: 5px;
+}
+
+.descripcion{
+    height: 100px;
+    width: 100%;
+}
