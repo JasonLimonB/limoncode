@@ -3,7 +3,8 @@
     height: 400px;
     margin: 20px 30px;
     border-radius: 5px;
-    border: 1px solid #dadada;
+    border: 1px solid #f8f8f8;
+    box-shadow: 0 0 60px 0 rgba(0,0,0,.1);
 }
 .imgCard{
     width: 100%;
