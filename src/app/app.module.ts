@@ -9,6 +9,7 @@ import { FooterComponent } from './components/shared/footer/footer.component';
 import { ApiconsumoComponent } from './components/apiconsumo/apiconsumo.component';
 import { ContactoComponent } from './components/contacto/contacto.component';
 import { RegistroComponent } from './components/registro/registro.component';
+import { TerminosComponent } from './components/terminos/terminos.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { RegistroComponent } from './components/registro/registro.component';
     FooterComponent,
     ApiconsumoComponent,
     ContactoComponent,
-    RegistroComponent
+    RegistroComponent,
+    TerminosComponent
   ],
   imports: [
     BrowserModule,
